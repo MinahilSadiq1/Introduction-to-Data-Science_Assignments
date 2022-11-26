@@ -1,4 +1,5 @@
 import folium
+#folium library used to create the maps
 import pandas as pd
 
 pakistan_map = folium.Map(location=[30.37,69.34],zoom_start=4.5,tiles='OpenStreetMap')
